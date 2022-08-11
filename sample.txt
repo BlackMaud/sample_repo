@@ -1,2 +1,3 @@
 sample for GIT
 new line added
+New version with nothing
